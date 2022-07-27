@@ -1,0 +1,10 @@
+{
+    "token": {
+      "discord": "MTAwMTgzNjgzOTU4MzM2NzIwMA.GOYBlE.n9rWq1OKOW0aip9MEQg_yOlLe0KEAKNs2XffK8"
+    },
+    "database": {
+      "username": "NdaaAnjay",
+      "password": "Bundasut",
+      "url": "mongodb+srv://NdaaAnjay:Bundasut@cluster0.khcbg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority "
+    }
+  }
